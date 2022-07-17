@@ -1,0 +1,145 @@
+* {
+	box-sizing: border-box;
+	
+
+}	
+
+
+#header-nav {
+  background-color: #7286CE;
+  border-radius: 0;
+  border: 0;
+   border: 2px solid black;
+  
+
+
+}
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    border: 2px solid black!important;
+    margin-right: 25px;
+
+}
+.icon-bar {
+    background-color: black !important;
+}
+
+
+
+.navbar-brand {
+  font-family: 'Albert Sans', sans-serif;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  float: left;
+  font-size: 35px;
+  padding-left: 25px;
+  height: 50px;
+  line-height: 20px;
+  text-shadow: 1px 1px 1px #222;
+  margin-left: 10px;
+}
+
+.navbar-default .navbar-brand {
+   color: #CB9FE4;
+}
+
+
+
+.navbar-header{
+height : 60px;
+}
+
+#nav-list {
+  margin-top: 20px;
+}
+#nav-list a {
+  color: #FAFAF7;
+  text-align: center;
+  text-shadow: 1px 1px 1px #226;
+}
+#nav-list a:hover {
+  background: #CB9FE4;
+}
+#nav-list a span {
+  font-size: 1.95em;
+}
+
+.onwan{
+  text-align: center;
+  font-family: 'Albert Sans', sans-serif;
+font-family: 'Edu VIC WA NT Beginner', cursive;
+color: #7286CE;
+
+}
+
+
+
+
+
+.navbar-header a:hover, .navbar-header a:focus {
+  text-decoration: none;
+}
+
+
+
+
+.box {
+	/*width: 30%;*/
+	height: 270px;
+	border :2px solid black;
+	background-color: #CB9FE4;
+	margin-left: 30px;
+	margin-right:5px;
+	margin-top:  20px;
+	/*float: left;
+*/
+}	
+
+
+
+
+
+#titre {
+
+position: relative;
+margin-left: 30%;
+text-align: center;
+font-size: 1.9em;
+top: 0;
+width: 40%;
+height: 15%;
+text-align: center;
+}
+
+
+p {
+	position: relative;
+	margin-top: 30px;
+	text-align: left;
+	margin-left: 15px;
+	margin-bottom: 10px;
+	
+}
+.row{
+  width: 100%;
+}
+
+
+
+
+
+
+
